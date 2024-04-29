@@ -1,0 +1,26 @@
+textarea {
+    min-height: 400px;
+}
+
+#email_div {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px;
+    align-items: center;
+}
+
+
+#email_body {
+    margin-top: 60px;
+    font-size: 22px;
+    margin-bottom: 80px;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 80px;
+}
+
